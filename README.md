@@ -50,9 +50,20 @@
 </section>
 <hr/>
 
+<section>
+  <h3>Linguaggi più usati</h3>
+  
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valeria-Caramellino&layout=compact&theme=catppuccin_latte" alt="valeria" width="35%" align="left"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valeria-Caramellino&theme=dark" alt="valeriaStar" width="45%" align="right"/>
+    
+
+</section>
+
+
 <!--
 **Valeria-Caramellino/Valeria-Caramellino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ <img src="https://github-readme-stats.vercel.app/api?username=Valeria-Caramellino&show_icons=true&theme=gotham" alt="valeria" width="45%" align="right"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
