@@ -3,7 +3,16 @@
   <img alt="io" src="https://github.com/Valeria-Caramellino/Valeria-Caramellino/assets/124247489/f6770f13-4254-44e7-8433-b4ac6260ae2a"  width="100"/>
   <span> <strong>Valeria Caramellino</strong> </span>
   <h3>Benvenuto/a nel mio GitHub!</h2>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/valeriacaramellino/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeria_in" height="20" width="20" /></a>
+    <a href="https://portfolio-valeria-caramellino.netlify.app/home" target="_blank">
+      <img align="center" src="https://github.com/Valeria-Caramellino/Valeria-Caramellino/assets/124247489/9ce408ad-330a-473a-9910-d958e22be588" alt="valeria_in" height="30" width="30" />
+    </a>
+    
+  </div>
 </section> 
+
 
 
 <section align="">
@@ -37,7 +46,7 @@
   <img alt="solving" src="https://img.shields.io/badge/PROBLEM%20SOLVING-ffffff?style=plastic&color=%23226f54" />
   <img alt="puntualità" src="https://img.shields.io/badge/PUNTUALITA'-ffffff?style=plastic&color=%2374c69d" />
   <img alt="serietà" src="https://img.shields.io/badge/SERIETA'-ffffff?style=plastic&color=%23014f86" />
-  <img alt="relazioni" src="https://img.shields.io/badge/CAPACITA'%20RELAZIONALI-ffffff?style=plastic&color=%233c096c" />
+  <img alt="relazioni" src="https://img.shields.io/badge/CAPACITA'%20RELAZIONALI-ffffff?style=plastic&color=%237952B3" />
 </section>
 <hr/>
 
