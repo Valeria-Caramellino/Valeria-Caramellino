@@ -7,7 +7,7 @@
 
 
 <section align="">
-    <h3>Competenze Tech:</h3>
+    <h3>Competenze Tech:💻</h3>
     <img alt="html5" src="https://img.shields.io/badge/Html5-ffffff?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=%23000000&color=%23E34F26" />
     <img alt="css3" src="https://img.shields.io/badge/Css3-ffffff?style=plastic&logo=css3&logoColor=%231572B6&labelColor=%23000000&color=%231572B6" />
     <img alt="scss" src="https://img.shields.io/badge/Scss-ffffff?style=plastic&logo=sass&logoColor=%23CC6699&labelColor=%23000000&color=%23CC6699" />
@@ -29,7 +29,7 @@
 <hr/>
 
 <section align="">
-  <h3>Competenze Personali:</h3>
+  <h3>Competenze Personali:🧐</h3>
   <img alt="precisione" src="https://img.shields.io/badge/PRECISIONE-ffffff?style=plastic&color=%23ff70a6" />
   <img alt="organizzazione" src="https://img.shields.io/badge/CAPACITA'%20ORGANIZZATIVE-ffffff?style=plastic&color=%23d90429" />
   <img alt="pazienza" src="https://img.shields.io/badge/PAZIENZA-ffffff?style=plastic&color=%23ff9500" />
